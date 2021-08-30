@@ -1,0 +1,5 @@
+{
+    "token": "Alto's token",
+    "prefix": "c#",
+    "mongooseConnectionString": ""
+}
